@@ -19,6 +19,7 @@ column of the repository's home page.
 - [GitHub.com Account](https://github.com)
 - [Git](https://git-scm.com/downloads)
 - (Optional) [Node.js v22+](https://nodejs.org/en)
+- Cambio
 
 ## Activities and Labs
 
